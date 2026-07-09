@@ -1,0 +1,36 @@
+C:\Users\roaab\Downloads\Engineering\DEPI\Code-Book-\CodeBook.Data.App\bin\Debug\net8.0\CodeBook.Data.App.deps.json
+C:\Users\roaab\Downloads\Engineering\DEPI\Code-Book-\CodeBook.Data.App\bin\Debug\net8.0\CodeBook.Data.App.runtimeconfig.json
+C:\Users\roaab\Downloads\Engineering\DEPI\Code-Book-\CodeBook.Data.App\bin\Debug\net8.0\CodeBook.Data.App.dll
+C:\Users\roaab\Downloads\Engineering\DEPI\Code-Book-\CodeBook.Data.App\bin\Debug\net8.0\CodeBook.Data.App.pdb
+C:\Users\roaab\Downloads\Engineering\DEPI\Code-Book-\CodeBook.Data.App\bin\Debug\net8.0\CodeBook.Models.App.dll
+C:\Users\roaab\Downloads\Engineering\DEPI\Code-Book-\CodeBook.Data.App\bin\Debug\net8.0\CodeBook.Models.App.pdb
+C:\Users\roaab\Downloads\Engineering\DEPI\Code-Book-\CodeBook.Data.App\obj\Debug\net8.0\CodeBook.Data.App.csproj.AssemblyReference.cache
+C:\Users\roaab\Downloads\Engineering\DEPI\Code-Book-\CodeBook.Data.App\obj\Debug\net8.0\CodeBook.Data.App.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\roaab\Downloads\Engineering\DEPI\Code-Book-\CodeBook.Data.App\obj\Debug\net8.0\CodeBook.Data.App.AssemblyInfoInputs.cache
+C:\Users\roaab\Downloads\Engineering\DEPI\Code-Book-\CodeBook.Data.App\obj\Debug\net8.0\CodeBook.Data.App.AssemblyInfo.cs
+C:\Users\roaab\Downloads\Engineering\DEPI\Code-Book-\CodeBook.Data.App\obj\Debug\net8.0\CodeBook.Data.App.csproj.CoreCompileInputs.cache
+C:\Users\roaab\Downloads\Engineering\DEPI\Code-Book-\CodeBook.Data.App\obj\Debug\net8.0\CodeBook.Data.App.sourcelink.json
+C:\Users\roaab\Downloads\Engineering\DEPI\Code-Book-\CodeBook.Data.App\obj\Debug\net8.0\CodeBook.F5E1363F.Up2Date
+C:\Users\roaab\Downloads\Engineering\DEPI\Code-Book-\CodeBook.Data.App\obj\Debug\net8.0\CodeBook.Data.App.dll
+C:\Users\roaab\Downloads\Engineering\DEPI\Code-Book-\CodeBook.Data.App\obj\Debug\net8.0\refint\CodeBook.Data.App.dll
+C:\Users\roaab\Downloads\Engineering\DEPI\Code-Book-\CodeBook.Data.App\obj\Debug\net8.0\CodeBook.Data.App.pdb
+C:\Users\roaab\Downloads\Engineering\DEPI\Code-Book-\CodeBook.Data.App\obj\Debug\net8.0\CodeBook.Data.App.genruntimeconfig.cache
+C:\Users\roaab\Downloads\Engineering\DEPI\Code-Book-\CodeBook.Data.App\obj\Debug\net8.0\ref\CodeBook.Data.App.dll
+C:\Users\Habiba Ahmed\Desktop\Code-Book-\CodeBook.Data.App\bin\Debug\net8.0\CodeBook.Data.App.deps.json
+C:\Users\Habiba Ahmed\Desktop\Code-Book-\CodeBook.Data.App\bin\Debug\net8.0\CodeBook.Data.App.runtimeconfig.json
+C:\Users\Habiba Ahmed\Desktop\Code-Book-\CodeBook.Data.App\bin\Debug\net8.0\CodeBook.Data.App.dll
+C:\Users\Habiba Ahmed\Desktop\Code-Book-\CodeBook.Data.App\bin\Debug\net8.0\CodeBook.Data.App.pdb
+C:\Users\Habiba Ahmed\Desktop\Code-Book-\CodeBook.Data.App\bin\Debug\net8.0\CodeBook.Models.App.dll
+C:\Users\Habiba Ahmed\Desktop\Code-Book-\CodeBook.Data.App\bin\Debug\net8.0\CodeBook.Models.App.pdb
+C:\Users\Habiba Ahmed\Desktop\Code-Book-\CodeBook.Data.App\obj\Debug\net8.0\CodeBook.Data.App.csproj.AssemblyReference.cache
+C:\Users\Habiba Ahmed\Desktop\Code-Book-\CodeBook.Data.App\obj\Debug\net8.0\CodeBook.Data.App.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Habiba Ahmed\Desktop\Code-Book-\CodeBook.Data.App\obj\Debug\net8.0\CodeBook.Data.App.AssemblyInfoInputs.cache
+C:\Users\Habiba Ahmed\Desktop\Code-Book-\CodeBook.Data.App\obj\Debug\net8.0\CodeBook.Data.App.AssemblyInfo.cs
+C:\Users\Habiba Ahmed\Desktop\Code-Book-\CodeBook.Data.App\obj\Debug\net8.0\CodeBook.Data.App.csproj.CoreCompileInputs.cache
+C:\Users\Habiba Ahmed\Desktop\Code-Book-\CodeBook.Data.App\obj\Debug\net8.0\CodeBook.Data.App.sourcelink.json
+C:\Users\Habiba Ahmed\Desktop\Code-Book-\CodeBook.Data.App\obj\Debug\net8.0\CodeBook.F5E1363F.Up2Date
+C:\Users\Habiba Ahmed\Desktop\Code-Book-\CodeBook.Data.App\obj\Debug\net8.0\CodeBook.Data.App.dll
+C:\Users\Habiba Ahmed\Desktop\Code-Book-\CodeBook.Data.App\obj\Debug\net8.0\refint\CodeBook.Data.App.dll
+C:\Users\Habiba Ahmed\Desktop\Code-Book-\CodeBook.Data.App\obj\Debug\net8.0\CodeBook.Data.App.pdb
+C:\Users\Habiba Ahmed\Desktop\Code-Book-\CodeBook.Data.App\obj\Debug\net8.0\CodeBook.Data.App.genruntimeconfig.cache
+C:\Users\Habiba Ahmed\Desktop\Code-Book-\CodeBook.Data.App\obj\Debug\net8.0\ref\CodeBook.Data.App.dll

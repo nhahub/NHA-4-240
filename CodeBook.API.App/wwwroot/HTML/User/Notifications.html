@@ -1,0 +1,85 @@
+<!DOCTYPE html>
+<html lang="en"> 
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Notifications - CodeBook</title>
+         <link rel="icon" type="image/png" href="../Images/logo.png?v=1">
+   <link rel="shortcut icon" type="image/png" href="../Images/logo.png?v=1">
+   <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css" rel="stylesheet">
+    <link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css" rel="stylesheet">
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.10.5/font/bootstrap-icons.css" rel="stylesheet">
+   <link rel="stylesheet" href="../../CSS/style.css">
+    </head>
+<body>
+        <nav class="navbar px-4 py-3">
+    <a class="navbar-brand">
+      <span style="color:#7c3aed;">&lt;</span><span class="logo-code">Code</span><span style="color:#7c3aed;">Book</span><span style="color:#7c3aed;">/&gt;</span>
+</a>
+            <div class="d-flex align-items-center gap-2 ms-auto">
+                <label class="theme-switch">
+               <input type="checkbox" id="themeToggle">
+                <span class ="switch-track">
+             <i class="fa-solid fa-sun"></i>
+             <i class="fa-solid fa-moon"></i>
+             <span class ="switch-thumb"></span>
+                </span>
+            </label>
+                <button class="btn-purple ms-auto" onclick="goBack()">
+                    <i class="fa-solid fa-arrow-left"></i> Back
+                </button>
+             </div>
+                </nav>
+    <div id ="navbar-placeholder"></div>
+    <div id="errorMsg" class="error-msg"></div>
+
+    <div id="successMsg" class="success-msg"></div>
+    <div class="container mt-4 ms-3" style="max-width: 700px;">
+        <h2 class=""fw-bold notification-title>
+            <i class="bi bi-bell-fill me-2" style="color:#7c3aed"></i>
+            Notifications
+        </h2>
+    </div>
+    <div class="container-fluid px-4 mb-4">
+    <div class ="d-flex justify-content-end ">
+                    <button id="clear-notifications" class="btn-purple">
+                Mark all as read
+        </button>
+    </div>
+    </div>
+
+    <div id="loading" class="text-center py-5 d-none">
+        <div class="spinner-border"style="color:#7c3aed" ></div>
+    </div>
+
+    <div class="text-center py-5 d-none" id="no-notifications">
+        <i class="bi bi-bell-slash fs-1 text-secondary"></i>
+        <p class="text-secondary mt-3">You're all caught up!</p>
+    </div>
+
+    <div class="d-flex flex-column gap-3" id="notifications-list"></div>
+    </div>
+       <div class="bg-decor">
+        <div class="floating-words" aria-hidden="true">
+            <span class="floating-word" style="left:2%; top:100%; font-size:1.1rem; animation-duration:18s; animation-delay:0s;">CodeBook</span>
+            <span class="floating-word" style="left:10%; top:100%; font-size:0.8rem; animation-duration:21s; animation-delay:5s;">Java</span>
+            <span class="floating-word" style="left:18%; top:100%; font-size:1.3rem; animation-duration:16s; animation-delay:2s;">CodeBook</span>
+            <span class="floating-word" style="left:26%; top:100%; font-size:0.9rem; animation-duration:24s; animation-delay:9s;">C#</span>
+            <span class="floating-word" style="left:34%; top:100%; font-size:1rem; animation-duration:19s; animation-delay:4s;">CodeBook</span>
+            <span class="floating-word" style="left:42%; top:100%; font-size:1.4rem; animation-duration:15s; animation-delay:11s;">HTML</span>
+            <span class="floating-word" style="left:50%; top:100%; font-size:0.85rem; animation-duration:26s; animation-delay:1s;">CodeBook</span>
+            <span class="floating-word" style="left:58%; top:100%; font-size:1.2rem; animation-duration:17s; animation-delay:7s;">CodeBook</span>
+            <span class="floating-word" style="left:66%; top:100%; font-size:0.95rem; animation-duration:20s; animation-delay:3s;">JavaScript</span>
+            <span class="floating-word" style="left:74%; top:100%; font-size:1.1rem; animation-duration:23s; animation-delay:12s;">CodeBook</span>
+            <span class="floating-word" style="left:81%; top:100%; font-size:0.9rem; animation-duration:18s; animation-delay:6s;">Python</span>
+            <span class="floating-word" style="left:88%; top:100%; font-size:1.3rem; animation-duration:22s; animation-delay:8s;">CodeBook</span>
+            <span class="floating-word" style="left:6%; top:100%; font-size:1rem; animation-duration:20s; animation-delay:10s;">C++</span>
+            <span class="floating-word" style="left:46%; top:100%; font-size:0.85rem; animation-duration:25s; animation-delay:13s;">CodeBook</span>
+            <span class="floating-word" style="left:62%; top:100%; font-size:1.15rem; animation-duration:16s; animation-delay:14s;">CSS</span>
+            <span class="floating-word" style="left:94%; top:100%; font-size:0.9rem; animation-duration:19s; animation-delay:15s;">CodeBook</span>
+        </div>
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.8/dist/js/bootstrap.bundle.min.js"></script>
+    <script  type="module" src="../../JS/Interactions/Notifications.js"></script>
+    <script src="../../JS/theme.js"></script>
+</body>
+</html>

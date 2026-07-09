@@ -1,0 +1,354 @@
+C:\Users\roaab\Downloads\Engineering\DEPI\Code-Book-\CodeBook.API.App\obj\Debug\net8.0\CodeBook.API.App.csproj.AssemblyReference.cache
+C:\Users\roaab\Downloads\Engineering\DEPI\Code-Book-\CodeBook.API.App\obj\Debug\net8.0\rpswa.dswa.cache.json
+C:\Users\roaab\Downloads\Engineering\DEPI\Code-Book-\CodeBook.API.App\obj\Debug\net8.0\CodeBook.API.App.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\roaab\Downloads\Engineering\DEPI\Code-Book-\CodeBook.API.App\obj\Debug\net8.0\CodeBook.API.App.AssemblyInfoInputs.cache
+C:\Users\roaab\Downloads\Engineering\DEPI\Code-Book-\CodeBook.API.App\obj\Debug\net8.0\CodeBook.API.App.AssemblyInfo.cs
+C:\Users\roaab\Downloads\Engineering\DEPI\Code-Book-\CodeBook.API.App\obj\Debug\net8.0\CodeBook.API.App.csproj.CoreCompileInputs.cache
+C:\Users\roaab\Downloads\Engineering\DEPI\Code-Book-\CodeBook.API.App\obj\Debug\net8.0\CodeBook.API.App.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\roaab\Downloads\Engineering\DEPI\Code-Book-\CodeBook.API.App\obj\Debug\net8.0\CodeBook.API.App.sourcelink.json
+C:\Users\roaab\Downloads\Engineering\DEPI\Code-Book-\CodeBook.API.App\bin\Debug\net8.0\appsettings.json
+C:\Users\roaab\Downloads\Engineering\DEPI\Code-Book-\CodeBook.API.App\bin\Debug\net8.0\CodeBook.API.App.staticwebassets.endpoints.json
+C:\Users\roaab\Downloads\Engineering\DEPI\Code-Book-\CodeBook.API.App\bin\Debug\net8.0\CodeBook.API.App.exe
+C:\Users\roaab\Downloads\Engineering\DEPI\Code-Book-\CodeBook.API.App\bin\Debug\net8.0\CodeBook.API.App.deps.json
+C:\Users\roaab\Downloads\Engineering\DEPI\Code-Book-\CodeBook.API.App\bin\Debug\net8.0\CodeBook.API.App.runtimeconfig.json
+C:\Users\roaab\Downloads\Engineering\DEPI\Code-Book-\CodeBook.API.App\bin\Debug\net8.0\CodeBook.API.App.dll
+C:\Users\roaab\Downloads\Engineering\DEPI\Code-Book-\CodeBook.API.App\bin\Debug\net8.0\CodeBook.API.App.pdb
+C:\Users\roaab\Downloads\Engineering\DEPI\Code-Book-\CodeBook.API.App\bin\Debug\net8.0\AutoMapper.dll
+C:\Users\roaab\Downloads\Engineering\DEPI\Code-Book-\CodeBook.API.App\bin\Debug\net8.0\Azure.Core.dll
+C:\Users\roaab\Downloads\Engineering\DEPI\Code-Book-\CodeBook.API.App\bin\Debug\net8.0\Azure.Identity.dll
+C:\Users\roaab\Downloads\Engineering\DEPI\Code-Book-\CodeBook.API.App\bin\Debug\net8.0\BCrypt.Net-Core.dll
+C:\Users\roaab\Downloads\Engineering\DEPI\Code-Book-\CodeBook.API.App\bin\Debug\net8.0\FluentValidation.dll
+C:\Users\roaab\Downloads\Engineering\DEPI\Code-Book-\CodeBook.API.App\bin\Debug\net8.0\FluentValidation.AspNetCore.dll
+C:\Users\roaab\Downloads\Engineering\DEPI\Code-Book-\CodeBook.API.App\bin\Debug\net8.0\FluentValidation.DependencyInjectionExtensions.dll
+C:\Users\roaab\Downloads\Engineering\DEPI\Code-Book-\CodeBook.API.App\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\roaab\Downloads\Engineering\DEPI\Code-Book-\CodeBook.API.App\bin\Debug\net8.0\Microsoft.AspNetCore.Server.Kestrel.Https.dll
+C:\Users\roaab\Downloads\Engineering\DEPI\Code-Book-\CodeBook.API.App\bin\Debug\net8.0\Microsoft.AspNetCore.Server.Kestrel.Transport.Abstractions.dll
+C:\Users\roaab\Downloads\Engineering\DEPI\Code-Book-\CodeBook.API.App\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\roaab\Downloads\Engineering\DEPI\Code-Book-\CodeBook.API.App\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\roaab\Downloads\Engineering\DEPI\Code-Book-\CodeBook.API.App\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\roaab\Downloads\Engineering\DEPI\Code-Book-\CodeBook.API.App\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\roaab\Downloads\Engineering\DEPI\Code-Book-\CodeBook.API.App\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\roaab\Downloads\Engineering\DEPI\Code-Book-\CodeBook.API.App\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\roaab\Downloads\Engineering\DEPI\Code-Book-\CodeBook.API.App\bin\Debug\net8.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\roaab\Downloads\Engineering\DEPI\Code-Book-\CodeBook.API.App\bin\Debug\net8.0\Microsoft.Extensions.Configuration.dll
+C:\Users\roaab\Downloads\Engineering\DEPI\Code-Book-\CodeBook.API.App\bin\Debug\net8.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\roaab\Downloads\Engineering\DEPI\Code-Book-\CodeBook.API.App\bin\Debug\net8.0\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\roaab\Downloads\Engineering\DEPI\Code-Book-\CodeBook.API.App\bin\Debug\net8.0\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\Users\roaab\Downloads\Engineering\DEPI\Code-Book-\CodeBook.API.App\bin\Debug\net8.0\Microsoft.Extensions.Configuration.Json.dll
+C:\Users\roaab\Downloads\Engineering\DEPI\Code-Book-\CodeBook.API.App\bin\Debug\net8.0\Microsoft.Extensions.Configuration.UserSecrets.dll
+C:\Users\roaab\Downloads\Engineering\DEPI\Code-Book-\CodeBook.API.App\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\roaab\Downloads\Engineering\DEPI\Code-Book-\CodeBook.API.App\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\roaab\Downloads\Engineering\DEPI\Code-Book-\CodeBook.API.App\bin\Debug\net8.0\Microsoft.Extensions.Diagnostics.Abstractions.dll
+C:\Users\roaab\Downloads\Engineering\DEPI\Code-Book-\CodeBook.API.App\bin\Debug\net8.0\Microsoft.Extensions.Hosting.Abstractions.dll
+C:\Users\roaab\Downloads\Engineering\DEPI\Code-Book-\CodeBook.API.App\bin\Debug\net8.0\Microsoft.Extensions.Logging.dll
+C:\Users\roaab\Downloads\Engineering\DEPI\Code-Book-\CodeBook.API.App\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\roaab\Downloads\Engineering\DEPI\Code-Book-\CodeBook.API.App\bin\Debug\net8.0\Microsoft.Extensions.Logging.Configuration.dll
+C:\Users\roaab\Downloads\Engineering\DEPI\Code-Book-\CodeBook.API.App\bin\Debug\net8.0\Microsoft.Extensions.Logging.Console.dll
+C:\Users\roaab\Downloads\Engineering\DEPI\Code-Book-\CodeBook.API.App\bin\Debug\net8.0\Microsoft.Extensions.Logging.Debug.dll
+C:\Users\roaab\Downloads\Engineering\DEPI\Code-Book-\CodeBook.API.App\bin\Debug\net8.0\Microsoft.Extensions.ObjectPool.dll
+C:\Users\roaab\Downloads\Engineering\DEPI\Code-Book-\CodeBook.API.App\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+C:\Users\roaab\Downloads\Engineering\DEPI\Code-Book-\CodeBook.API.App\bin\Debug\net8.0\Microsoft.Extensions.Primitives.dll
+C:\Users\roaab\Downloads\Engineering\DEPI\Code-Book-\CodeBook.API.App\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+C:\Users\roaab\Downloads\Engineering\DEPI\Code-Book-\CodeBook.API.App\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\roaab\Downloads\Engineering\DEPI\Code-Book-\CodeBook.API.App\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\roaab\Downloads\Engineering\DEPI\Code-Book-\CodeBook.API.App\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\roaab\Downloads\Engineering\DEPI\Code-Book-\CodeBook.API.App\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\roaab\Downloads\Engineering\DEPI\Code-Book-\CodeBook.API.App\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\roaab\Downloads\Engineering\DEPI\Code-Book-\CodeBook.API.App\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\roaab\Downloads\Engineering\DEPI\Code-Book-\CodeBook.API.App\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\roaab\Downloads\Engineering\DEPI\Code-Book-\CodeBook.API.App\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\roaab\Downloads\Engineering\DEPI\Code-Book-\CodeBook.API.App\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+C:\Users\roaab\Downloads\Engineering\DEPI\Code-Book-\CodeBook.API.App\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\roaab\Downloads\Engineering\DEPI\Code-Book-\CodeBook.API.App\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Users\roaab\Downloads\Engineering\DEPI\Code-Book-\CodeBook.API.App\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\roaab\Downloads\Engineering\DEPI\Code-Book-\CodeBook.API.App\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\roaab\Downloads\Engineering\DEPI\Code-Book-\CodeBook.API.App\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\roaab\Downloads\Engineering\DEPI\Code-Book-\CodeBook.API.App\bin\Debug\net8.0\System.ClientModel.dll
+C:\Users\roaab\Downloads\Engineering\DEPI\Code-Book-\CodeBook.API.App\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+C:\Users\roaab\Downloads\Engineering\DEPI\Code-Book-\CodeBook.API.App\bin\Debug\net8.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\roaab\Downloads\Engineering\DEPI\Code-Book-\CodeBook.API.App\bin\Debug\net8.0\System.Drawing.Common.dll
+C:\Users\roaab\Downloads\Engineering\DEPI\Code-Book-\CodeBook.API.App\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\roaab\Downloads\Engineering\DEPI\Code-Book-\CodeBook.API.App\bin\Debug\net8.0\System.Memory.Data.dll
+C:\Users\roaab\Downloads\Engineering\DEPI\Code-Book-\CodeBook.API.App\bin\Debug\net8.0\System.Net.WebSockets.WebSocketProtocol.dll
+C:\Users\roaab\Downloads\Engineering\DEPI\Code-Book-\CodeBook.API.App\bin\Debug\net8.0\System.Runtime.Caching.dll
+C:\Users\roaab\Downloads\Engineering\DEPI\Code-Book-\CodeBook.API.App\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\roaab\Downloads\Engineering\DEPI\Code-Book-\CodeBook.API.App\bin\Debug\net8.0\System.Security.Permissions.dll
+C:\Users\roaab\Downloads\Engineering\DEPI\Code-Book-\CodeBook.API.App\bin\Debug\net8.0\System.Windows.Extensions.dll
+C:\Users\roaab\Downloads\Engineering\DEPI\Code-Book-\CodeBook.API.App\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\roaab\Downloads\Engineering\DEPI\Code-Book-\CodeBook.API.App\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\roaab\Downloads\Engineering\DEPI\Code-Book-\CodeBook.API.App\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\roaab\Downloads\Engineering\DEPI\Code-Book-\CodeBook.API.App\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\roaab\Downloads\Engineering\DEPI\Code-Book-\CodeBook.API.App\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\roaab\Downloads\Engineering\DEPI\Code-Book-\CodeBook.API.App\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\roaab\Downloads\Engineering\DEPI\Code-Book-\CodeBook.API.App\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\roaab\Downloads\Engineering\DEPI\Code-Book-\CodeBook.API.App\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\roaab\Downloads\Engineering\DEPI\Code-Book-\CodeBook.API.App\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\roaab\Downloads\Engineering\DEPI\Code-Book-\CodeBook.API.App\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\roaab\Downloads\Engineering\DEPI\Code-Book-\CodeBook.API.App\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\roaab\Downloads\Engineering\DEPI\Code-Book-\CodeBook.API.App\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\roaab\Downloads\Engineering\DEPI\Code-Book-\CodeBook.API.App\bin\Debug\net8.0\CodeBook.Business.App.dll
+C:\Users\roaab\Downloads\Engineering\DEPI\Code-Book-\CodeBook.API.App\bin\Debug\net8.0\CodeBook.Data.App.dll
+C:\Users\roaab\Downloads\Engineering\DEPI\Code-Book-\CodeBook.API.App\bin\Debug\net8.0\CodeBook.Models.App.dll
+C:\Users\roaab\Downloads\Engineering\DEPI\Code-Book-\CodeBook.API.App\bin\Debug\net8.0\CodeBook.Business.App.pdb
+C:\Users\roaab\Downloads\Engineering\DEPI\Code-Book-\CodeBook.API.App\bin\Debug\net8.0\CodeBook.Data.App.pdb
+C:\Users\roaab\Downloads\Engineering\DEPI\Code-Book-\CodeBook.API.App\bin\Debug\net8.0\CodeBook.Models.App.pdb
+C:\Users\roaab\Downloads\Engineering\DEPI\Code-Book-\CodeBook.API.App\obj\Debug\net8.0\CodeBook.API.App.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\roaab\Downloads\Engineering\DEPI\Code-Book-\CodeBook.API.App\obj\Debug\net8.0\rjimswa.dswa.cache.json
+C:\Users\roaab\Downloads\Engineering\DEPI\Code-Book-\CodeBook.API.App\obj\Debug\net8.0\rjsmrazor.dswa.cache.json
+C:\Users\roaab\Downloads\Engineering\DEPI\Code-Book-\CodeBook.API.App\obj\Debug\net8.0\rjsmcshtml.dswa.cache.json
+C:\Users\roaab\Downloads\Engineering\DEPI\Code-Book-\CodeBook.API.App\obj\Debug\net8.0\scopedcss\bundle\CodeBook.API.App.styles.css
+C:\Users\roaab\Downloads\Engineering\DEPI\Code-Book-\CodeBook.API.App\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\roaab\Downloads\Engineering\DEPI\Code-Book-\CodeBook.API.App\obj\Debug\net8.0\staticwebassets.build.json.cache
+C:\Users\roaab\Downloads\Engineering\DEPI\Code-Book-\CodeBook.API.App\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\roaab\Downloads\Engineering\DEPI\Code-Book-\CodeBook.API.App\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+C:\Users\roaab\Downloads\Engineering\DEPI\Code-Book-\CodeBook.API.App\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+C:\Users\roaab\Downloads\Engineering\DEPI\Code-Book-\CodeBook.API.App\obj\Debug\net8.0\CodeBook.B8C6C5E6.Up2Date
+C:\Users\roaab\Downloads\Engineering\DEPI\Code-Book-\CodeBook.API.App\obj\Debug\net8.0\CodeBook.API.App.dll
+C:\Users\roaab\Downloads\Engineering\DEPI\Code-Book-\CodeBook.API.App\obj\Debug\net8.0\refint\CodeBook.API.App.dll
+C:\Users\roaab\Downloads\Engineering\DEPI\Code-Book-\CodeBook.API.App\obj\Debug\net8.0\CodeBook.API.App.pdb
+C:\Users\roaab\Downloads\Engineering\DEPI\Code-Book-\CodeBook.API.App\obj\Debug\net8.0\CodeBook.API.App.genruntimeconfig.cache
+C:\Users\roaab\Downloads\Engineering\DEPI\Code-Book-\CodeBook.API.App\obj\Debug\net8.0\ref\CodeBook.API.App.dll
+C:\Users\roaab\Downloads\Engineering\DEPI\Code-Book-\CodeBook.API.App\bin\Debug\net8.0\Humanizer.dll
+C:\Users\roaab\Downloads\Engineering\DEPI\Code-Book-\CodeBook.API.App\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+C:\Users\roaab\Downloads\Engineering\DEPI\Code-Book-\CodeBook.API.App\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\roaab\Downloads\Engineering\DEPI\Code-Book-\CodeBook.API.App\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\roaab\Downloads\Engineering\DEPI\Code-Book-\CodeBook.API.App\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\roaab\Downloads\Engineering\DEPI\Code-Book-\CodeBook.API.App\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\roaab\Downloads\Engineering\DEPI\Code-Book-\CodeBook.API.App\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\roaab\Downloads\Engineering\DEPI\Code-Book-\CodeBook.API.App\bin\Debug\net8.0\Mono.TextTemplating.dll
+C:\Users\roaab\Downloads\Engineering\DEPI\Code-Book-\CodeBook.API.App\bin\Debug\net8.0\System.CodeDom.dll
+C:\Users\roaab\Downloads\Engineering\DEPI\Code-Book-\CodeBook.API.App\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+C:\Users\roaab\Downloads\Engineering\DEPI\Code-Book-\CodeBook.API.App\bin\Debug\net8.0\System.Composition.Convention.dll
+C:\Users\roaab\Downloads\Engineering\DEPI\Code-Book-\CodeBook.API.App\bin\Debug\net8.0\System.Composition.Hosting.dll
+C:\Users\roaab\Downloads\Engineering\DEPI\Code-Book-\CodeBook.API.App\bin\Debug\net8.0\System.Composition.Runtime.dll
+C:\Users\roaab\Downloads\Engineering\DEPI\Code-Book-\CodeBook.API.App\bin\Debug\net8.0\System.Composition.TypedParts.dll
+C:\Users\roaab\Downloads\Engineering\DEPI\Code-Book-\CodeBook.API.App\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\roaab\Downloads\Engineering\DEPI\Code-Book-\CodeBook.API.App\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\roaab\Downloads\Engineering\DEPI\Code-Book-\CodeBook.API.App\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\roaab\Downloads\Engineering\DEPI\Code-Book-\CodeBook.API.App\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\roaab\Downloads\Engineering\DEPI\Code-Book-\CodeBook.API.App\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\roaab\Downloads\Engineering\DEPI\Code-Book-\CodeBook.API.App\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\roaab\Downloads\Engineering\DEPI\Code-Book-\CodeBook.API.App\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\roaab\Downloads\Engineering\DEPI\Code-Book-\CodeBook.API.App\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\roaab\Downloads\Engineering\DEPI\Code-Book-\CodeBook.API.App\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\roaab\Downloads\Engineering\DEPI\Code-Book-\CodeBook.API.App\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\roaab\Downloads\Engineering\DEPI\Code-Book-\CodeBook.API.App\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\roaab\Downloads\Engineering\DEPI\Code-Book-\CodeBook.API.App\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\roaab\Downloads\Engineering\DEPI\Code-Book-\CodeBook.API.App\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\roaab\Downloads\Engineering\DEPI\Code-Book-\CodeBook.API.App\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\roaab\Downloads\Engineering\DEPI\Code-Book-\CodeBook.API.App\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\roaab\Downloads\Engineering\DEPI\Code-Book-\CodeBook.API.App\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\roaab\Downloads\Engineering\DEPI\Code-Book-\CodeBook.API.App\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\roaab\Downloads\Engineering\DEPI\Code-Book-\CodeBook.API.App\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\roaab\Downloads\Engineering\DEPI\Code-Book-\CodeBook.API.App\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\roaab\Downloads\Engineering\DEPI\Code-Book-\CodeBook.API.App\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\roaab\Downloads\Engineering\DEPI\Code-Book-\CodeBook.API.App\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\roaab\Downloads\Engineering\DEPI\Code-Book-\CodeBook.API.App\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\roaab\Downloads\Engineering\DEPI\Code-Book-\CodeBook.API.App\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\roaab\Downloads\Engineering\DEPI\Code-Book-\CodeBook.API.App\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\roaab\Downloads\Engineering\DEPI\Code-Book-\CodeBook.API.App\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\roaab\Downloads\Engineering\DEPI\Code-Book-\CodeBook.API.App\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\roaab\Downloads\Engineering\DEPI\Code-Book-\CodeBook.API.App\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\roaab\Downloads\Engineering\DEPI\Code-Book-\CodeBook.API.App\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\roaab\Downloads\Engineering\DEPI\Code-Book-\CodeBook.API.App\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\roaab\Downloads\Engineering\DEPI\Code-Book-\CodeBook.API.App\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\roaab\Downloads\Engineering\DEPI\Code-Book-\CodeBook.API.App\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\roaab\Downloads\Engineering\DEPI\Code-Book-\CodeBook.API.App\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\roaab\Downloads\Engineering\DEPI\Code-Book-\CodeBook.API.App\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\roaab\Downloads\Engineering\DEPI\Code-Book-\CodeBook.API.App\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\roaab\Downloads\Engineering\DEPI\Code-Book-\CodeBook.API.App\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\roaab\Downloads\Engineering\DEPI\Code-Book-\CodeBook.API.App\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\roaab\Downloads\Engineering\DEPI\Code-Book-\CodeBook.API.App\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\roaab\Downloads\Engineering\DEPI\Code-Book-\CodeBook.API.App\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\roaab\Downloads\Engineering\DEPI\Code-Book-\CodeBook.API.App\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\roaab\Downloads\Engineering\DEPI\Code-Book-\CodeBook.API.App\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\roaab\Downloads\Engineering\DEPI\Code-Book-\CodeBook.API.App\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\roaab\Downloads\Engineering\DEPI\Code-Book-\CodeBook.API.App\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\roaab\Downloads\Engineering\DEPI\Code-Book-\CodeBook.API.App\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\roaab\Downloads\Engineering\DEPI\Code-Book-\CodeBook.API.App\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\roaab\Downloads\Engineering\DEPI\Code-Book-\CodeBook.API.App\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\roaab\Downloads\Engineering\DEPI\Code-Book-\CodeBook.API.App\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\roaab\Downloads\Engineering\DEPI\Code-Book-\CodeBook.API.App\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\roaab\Downloads\Engineering\DEPI\Code-Book-\CodeBook.API.App\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\roaab\Downloads\Engineering\DEPI\Code-Book-\CodeBook.API.App\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\roaab\Downloads\Engineering\DEPI\Code-Book-\CodeBook.API.App\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\roaab\Downloads\Engineering\DEPI\Code-Book-\CodeBook.API.App\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\roaab\Downloads\Engineering\DEPI\Code-Book-\CodeBook.API.App\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Habiba Ahmed\Desktop\Code-Book-\CodeBook.API.App\bin\Debug\net8.0\appsettings.json
+C:\Users\Habiba Ahmed\Desktop\Code-Book-\CodeBook.API.App\bin\Debug\net8.0\CodeBook.API.App.staticwebassets.endpoints.json
+C:\Users\Habiba Ahmed\Desktop\Code-Book-\CodeBook.API.App\bin\Debug\net8.0\CodeBook.API.App.exe
+C:\Users\Habiba Ahmed\Desktop\Code-Book-\CodeBook.API.App\bin\Debug\net8.0\CodeBook.API.App.deps.json
+C:\Users\Habiba Ahmed\Desktop\Code-Book-\CodeBook.API.App\bin\Debug\net8.0\CodeBook.API.App.runtimeconfig.json
+C:\Users\Habiba Ahmed\Desktop\Code-Book-\CodeBook.API.App\bin\Debug\net8.0\CodeBook.API.App.dll
+C:\Users\Habiba Ahmed\Desktop\Code-Book-\CodeBook.API.App\bin\Debug\net8.0\CodeBook.API.App.pdb
+C:\Users\Habiba Ahmed\Desktop\Code-Book-\CodeBook.API.App\bin\Debug\net8.0\AutoMapper.dll
+C:\Users\Habiba Ahmed\Desktop\Code-Book-\CodeBook.API.App\bin\Debug\net8.0\Azure.Core.dll
+C:\Users\Habiba Ahmed\Desktop\Code-Book-\CodeBook.API.App\bin\Debug\net8.0\Azure.Identity.dll
+C:\Users\Habiba Ahmed\Desktop\Code-Book-\CodeBook.API.App\bin\Debug\net8.0\BCrypt.Net-Core.dll
+C:\Users\Habiba Ahmed\Desktop\Code-Book-\CodeBook.API.App\bin\Debug\net8.0\FluentValidation.dll
+C:\Users\Habiba Ahmed\Desktop\Code-Book-\CodeBook.API.App\bin\Debug\net8.0\FluentValidation.AspNetCore.dll
+C:\Users\Habiba Ahmed\Desktop\Code-Book-\CodeBook.API.App\bin\Debug\net8.0\FluentValidation.DependencyInjectionExtensions.dll
+C:\Users\Habiba Ahmed\Desktop\Code-Book-\CodeBook.API.App\bin\Debug\net8.0\Humanizer.dll
+C:\Users\Habiba Ahmed\Desktop\Code-Book-\CodeBook.API.App\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\Habiba Ahmed\Desktop\Code-Book-\CodeBook.API.App\bin\Debug\net8.0\Microsoft.AspNetCore.Server.Kestrel.Https.dll
+C:\Users\Habiba Ahmed\Desktop\Code-Book-\CodeBook.API.App\bin\Debug\net8.0\Microsoft.AspNetCore.Server.Kestrel.Transport.Abstractions.dll
+C:\Users\Habiba Ahmed\Desktop\Code-Book-\CodeBook.API.App\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Habiba Ahmed\Desktop\Code-Book-\CodeBook.API.App\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+C:\Users\Habiba Ahmed\Desktop\Code-Book-\CodeBook.API.App\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Habiba Ahmed\Desktop\Code-Book-\CodeBook.API.App\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\Habiba Ahmed\Desktop\Code-Book-\CodeBook.API.App\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\Habiba Ahmed\Desktop\Code-Book-\CodeBook.API.App\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\Habiba Ahmed\Desktop\Code-Book-\CodeBook.API.App\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Habiba Ahmed\Desktop\Code-Book-\CodeBook.API.App\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Habiba Ahmed\Desktop\Code-Book-\CodeBook.API.App\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Habiba Ahmed\Desktop\Code-Book-\CodeBook.API.App\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Habiba Ahmed\Desktop\Code-Book-\CodeBook.API.App\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Habiba Ahmed\Desktop\Code-Book-\CodeBook.API.App\bin\Debug\net8.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Habiba Ahmed\Desktop\Code-Book-\CodeBook.API.App\bin\Debug\net8.0\Microsoft.Extensions.Configuration.dll
+C:\Users\Habiba Ahmed\Desktop\Code-Book-\CodeBook.API.App\bin\Debug\net8.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Habiba Ahmed\Desktop\Code-Book-\CodeBook.API.App\bin\Debug\net8.0\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\Habiba Ahmed\Desktop\Code-Book-\CodeBook.API.App\bin\Debug\net8.0\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\Users\Habiba Ahmed\Desktop\Code-Book-\CodeBook.API.App\bin\Debug\net8.0\Microsoft.Extensions.Configuration.Json.dll
+C:\Users\Habiba Ahmed\Desktop\Code-Book-\CodeBook.API.App\bin\Debug\net8.0\Microsoft.Extensions.Configuration.UserSecrets.dll
+C:\Users\Habiba Ahmed\Desktop\Code-Book-\CodeBook.API.App\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Habiba Ahmed\Desktop\Code-Book-\CodeBook.API.App\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Habiba Ahmed\Desktop\Code-Book-\CodeBook.API.App\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\Habiba Ahmed\Desktop\Code-Book-\CodeBook.API.App\bin\Debug\net8.0\Microsoft.Extensions.Diagnostics.Abstractions.dll
+C:\Users\Habiba Ahmed\Desktop\Code-Book-\CodeBook.API.App\bin\Debug\net8.0\Microsoft.Extensions.Hosting.Abstractions.dll
+C:\Users\Habiba Ahmed\Desktop\Code-Book-\CodeBook.API.App\bin\Debug\net8.0\Microsoft.Extensions.Logging.dll
+C:\Users\Habiba Ahmed\Desktop\Code-Book-\CodeBook.API.App\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Habiba Ahmed\Desktop\Code-Book-\CodeBook.API.App\bin\Debug\net8.0\Microsoft.Extensions.Logging.Configuration.dll
+C:\Users\Habiba Ahmed\Desktop\Code-Book-\CodeBook.API.App\bin\Debug\net8.0\Microsoft.Extensions.Logging.Console.dll
+C:\Users\Habiba Ahmed\Desktop\Code-Book-\CodeBook.API.App\bin\Debug\net8.0\Microsoft.Extensions.Logging.Debug.dll
+C:\Users\Habiba Ahmed\Desktop\Code-Book-\CodeBook.API.App\bin\Debug\net8.0\Microsoft.Extensions.ObjectPool.dll
+C:\Users\Habiba Ahmed\Desktop\Code-Book-\CodeBook.API.App\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+C:\Users\Habiba Ahmed\Desktop\Code-Book-\CodeBook.API.App\bin\Debug\net8.0\Microsoft.Extensions.Primitives.dll
+C:\Users\Habiba Ahmed\Desktop\Code-Book-\CodeBook.API.App\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+C:\Users\Habiba Ahmed\Desktop\Code-Book-\CodeBook.API.App\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\Habiba Ahmed\Desktop\Code-Book-\CodeBook.API.App\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\Habiba Ahmed\Desktop\Code-Book-\CodeBook.API.App\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Habiba Ahmed\Desktop\Code-Book-\CodeBook.API.App\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Habiba Ahmed\Desktop\Code-Book-\CodeBook.API.App\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Habiba Ahmed\Desktop\Code-Book-\CodeBook.API.App\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Habiba Ahmed\Desktop\Code-Book-\CodeBook.API.App\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Habiba Ahmed\Desktop\Code-Book-\CodeBook.API.App\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\Habiba Ahmed\Desktop\Code-Book-\CodeBook.API.App\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+C:\Users\Habiba Ahmed\Desktop\Code-Book-\CodeBook.API.App\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Habiba Ahmed\Desktop\Code-Book-\CodeBook.API.App\bin\Debug\net8.0\Mono.TextTemplating.dll
+C:\Users\Habiba Ahmed\Desktop\Code-Book-\CodeBook.API.App\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Users\Habiba Ahmed\Desktop\Code-Book-\CodeBook.API.App\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Habiba Ahmed\Desktop\Code-Book-\CodeBook.API.App\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Habiba Ahmed\Desktop\Code-Book-\CodeBook.API.App\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Habiba Ahmed\Desktop\Code-Book-\CodeBook.API.App\bin\Debug\net8.0\System.ClientModel.dll
+C:\Users\Habiba Ahmed\Desktop\Code-Book-\CodeBook.API.App\bin\Debug\net8.0\System.CodeDom.dll
+C:\Users\Habiba Ahmed\Desktop\Code-Book-\CodeBook.API.App\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+C:\Users\Habiba Ahmed\Desktop\Code-Book-\CodeBook.API.App\bin\Debug\net8.0\System.Composition.Convention.dll
+C:\Users\Habiba Ahmed\Desktop\Code-Book-\CodeBook.API.App\bin\Debug\net8.0\System.Composition.Hosting.dll
+C:\Users\Habiba Ahmed\Desktop\Code-Book-\CodeBook.API.App\bin\Debug\net8.0\System.Composition.Runtime.dll
+C:\Users\Habiba Ahmed\Desktop\Code-Book-\CodeBook.API.App\bin\Debug\net8.0\System.Composition.TypedParts.dll
+C:\Users\Habiba Ahmed\Desktop\Code-Book-\CodeBook.API.App\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Habiba Ahmed\Desktop\Code-Book-\CodeBook.API.App\bin\Debug\net8.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Habiba Ahmed\Desktop\Code-Book-\CodeBook.API.App\bin\Debug\net8.0\System.Drawing.Common.dll
+C:\Users\Habiba Ahmed\Desktop\Code-Book-\CodeBook.API.App\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Habiba Ahmed\Desktop\Code-Book-\CodeBook.API.App\bin\Debug\net8.0\System.Memory.Data.dll
+C:\Users\Habiba Ahmed\Desktop\Code-Book-\CodeBook.API.App\bin\Debug\net8.0\System.Net.WebSockets.WebSocketProtocol.dll
+C:\Users\Habiba Ahmed\Desktop\Code-Book-\CodeBook.API.App\bin\Debug\net8.0\System.Runtime.Caching.dll
+C:\Users\Habiba Ahmed\Desktop\Code-Book-\CodeBook.API.App\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Habiba Ahmed\Desktop\Code-Book-\CodeBook.API.App\bin\Debug\net8.0\System.Security.Permissions.dll
+C:\Users\Habiba Ahmed\Desktop\Code-Book-\CodeBook.API.App\bin\Debug\net8.0\System.Windows.Extensions.dll
+C:\Users\Habiba Ahmed\Desktop\Code-Book-\CodeBook.API.App\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Habiba Ahmed\Desktop\Code-Book-\CodeBook.API.App\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Habiba Ahmed\Desktop\Code-Book-\CodeBook.API.App\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Habiba Ahmed\Desktop\Code-Book-\CodeBook.API.App\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Habiba Ahmed\Desktop\Code-Book-\CodeBook.API.App\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Habiba Ahmed\Desktop\Code-Book-\CodeBook.API.App\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Habiba Ahmed\Desktop\Code-Book-\CodeBook.API.App\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Habiba Ahmed\Desktop\Code-Book-\CodeBook.API.App\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Habiba Ahmed\Desktop\Code-Book-\CodeBook.API.App\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Habiba Ahmed\Desktop\Code-Book-\CodeBook.API.App\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Habiba Ahmed\Desktop\Code-Book-\CodeBook.API.App\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Habiba Ahmed\Desktop\Code-Book-\CodeBook.API.App\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Habiba Ahmed\Desktop\Code-Book-\CodeBook.API.App\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Habiba Ahmed\Desktop\Code-Book-\CodeBook.API.App\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Habiba Ahmed\Desktop\Code-Book-\CodeBook.API.App\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Habiba Ahmed\Desktop\Code-Book-\CodeBook.API.App\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Habiba Ahmed\Desktop\Code-Book-\CodeBook.API.App\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Habiba Ahmed\Desktop\Code-Book-\CodeBook.API.App\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Habiba Ahmed\Desktop\Code-Book-\CodeBook.API.App\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Habiba Ahmed\Desktop\Code-Book-\CodeBook.API.App\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Habiba Ahmed\Desktop\Code-Book-\CodeBook.API.App\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Habiba Ahmed\Desktop\Code-Book-\CodeBook.API.App\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Habiba Ahmed\Desktop\Code-Book-\CodeBook.API.App\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Habiba Ahmed\Desktop\Code-Book-\CodeBook.API.App\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Habiba Ahmed\Desktop\Code-Book-\CodeBook.API.App\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Habiba Ahmed\Desktop\Code-Book-\CodeBook.API.App\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Habiba Ahmed\Desktop\Code-Book-\CodeBook.API.App\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Habiba Ahmed\Desktop\Code-Book-\CodeBook.API.App\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Habiba Ahmed\Desktop\Code-Book-\CodeBook.API.App\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Habiba Ahmed\Desktop\Code-Book-\CodeBook.API.App\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Habiba Ahmed\Desktop\Code-Book-\CodeBook.API.App\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Habiba Ahmed\Desktop\Code-Book-\CodeBook.API.App\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Habiba Ahmed\Desktop\Code-Book-\CodeBook.API.App\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Habiba Ahmed\Desktop\Code-Book-\CodeBook.API.App\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Habiba Ahmed\Desktop\Code-Book-\CodeBook.API.App\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Habiba Ahmed\Desktop\Code-Book-\CodeBook.API.App\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Habiba Ahmed\Desktop\Code-Book-\CodeBook.API.App\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Habiba Ahmed\Desktop\Code-Book-\CodeBook.API.App\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Habiba Ahmed\Desktop\Code-Book-\CodeBook.API.App\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Habiba Ahmed\Desktop\Code-Book-\CodeBook.API.App\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Habiba Ahmed\Desktop\Code-Book-\CodeBook.API.App\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Habiba Ahmed\Desktop\Code-Book-\CodeBook.API.App\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Habiba Ahmed\Desktop\Code-Book-\CodeBook.API.App\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Habiba Ahmed\Desktop\Code-Book-\CodeBook.API.App\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Habiba Ahmed\Desktop\Code-Book-\CodeBook.API.App\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Habiba Ahmed\Desktop\Code-Book-\CodeBook.API.App\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Habiba Ahmed\Desktop\Code-Book-\CodeBook.API.App\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Habiba Ahmed\Desktop\Code-Book-\CodeBook.API.App\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Habiba Ahmed\Desktop\Code-Book-\CodeBook.API.App\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Habiba Ahmed\Desktop\Code-Book-\CodeBook.API.App\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Habiba Ahmed\Desktop\Code-Book-\CodeBook.API.App\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Habiba Ahmed\Desktop\Code-Book-\CodeBook.API.App\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Habiba Ahmed\Desktop\Code-Book-\CodeBook.API.App\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Habiba Ahmed\Desktop\Code-Book-\CodeBook.API.App\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Habiba Ahmed\Desktop\Code-Book-\CodeBook.API.App\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Habiba Ahmed\Desktop\Code-Book-\CodeBook.API.App\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Habiba Ahmed\Desktop\Code-Book-\CodeBook.API.App\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Habiba Ahmed\Desktop\Code-Book-\CodeBook.API.App\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Habiba Ahmed\Desktop\Code-Book-\CodeBook.API.App\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Habiba Ahmed\Desktop\Code-Book-\CodeBook.API.App\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\Habiba Ahmed\Desktop\Code-Book-\CodeBook.API.App\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\Habiba Ahmed\Desktop\Code-Book-\CodeBook.API.App\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\Habiba Ahmed\Desktop\Code-Book-\CodeBook.API.App\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Habiba Ahmed\Desktop\Code-Book-\CodeBook.API.App\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\Habiba Ahmed\Desktop\Code-Book-\CodeBook.API.App\bin\Debug\net8.0\CodeBook.Business.App.dll
+C:\Users\Habiba Ahmed\Desktop\Code-Book-\CodeBook.API.App\bin\Debug\net8.0\CodeBook.Data.App.dll
+C:\Users\Habiba Ahmed\Desktop\Code-Book-\CodeBook.API.App\bin\Debug\net8.0\CodeBook.Models.App.dll
+C:\Users\Habiba Ahmed\Desktop\Code-Book-\CodeBook.API.App\bin\Debug\net8.0\CodeBook.Business.App.pdb
+C:\Users\Habiba Ahmed\Desktop\Code-Book-\CodeBook.API.App\bin\Debug\net8.0\CodeBook.Data.App.pdb
+C:\Users\Habiba Ahmed\Desktop\Code-Book-\CodeBook.API.App\bin\Debug\net8.0\CodeBook.Models.App.pdb
+C:\Users\Habiba Ahmed\Desktop\Code-Book-\CodeBook.API.App\obj\Debug\net8.0\CodeBook.API.App.csproj.AssemblyReference.cache
+C:\Users\Habiba Ahmed\Desktop\Code-Book-\CodeBook.API.App\obj\Debug\net8.0\rpswa.dswa.cache.json
+C:\Users\Habiba Ahmed\Desktop\Code-Book-\CodeBook.API.App\obj\Debug\net8.0\CodeBook.API.App.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Habiba Ahmed\Desktop\Code-Book-\CodeBook.API.App\obj\Debug\net8.0\CodeBook.API.App.AssemblyInfoInputs.cache
+C:\Users\Habiba Ahmed\Desktop\Code-Book-\CodeBook.API.App\obj\Debug\net8.0\CodeBook.API.App.AssemblyInfo.cs
+C:\Users\Habiba Ahmed\Desktop\Code-Book-\CodeBook.API.App\obj\Debug\net8.0\CodeBook.API.App.csproj.CoreCompileInputs.cache
+C:\Users\Habiba Ahmed\Desktop\Code-Book-\CodeBook.API.App\obj\Debug\net8.0\CodeBook.API.App.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Habiba Ahmed\Desktop\Code-Book-\CodeBook.API.App\obj\Debug\net8.0\CodeBook.API.App.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Habiba Ahmed\Desktop\Code-Book-\CodeBook.API.App\obj\Debug\net8.0\CodeBook.API.App.sourcelink.json
+C:\Users\Habiba Ahmed\Desktop\Code-Book-\CodeBook.API.App\obj\Debug\net8.0\rjimswa.dswa.cache.json
+C:\Users\Habiba Ahmed\Desktop\Code-Book-\CodeBook.API.App\obj\Debug\net8.0\rjsmrazor.dswa.cache.json
+C:\Users\Habiba Ahmed\Desktop\Code-Book-\CodeBook.API.App\obj\Debug\net8.0\rjsmcshtml.dswa.cache.json
+C:\Users\Habiba Ahmed\Desktop\Code-Book-\CodeBook.API.App\obj\Debug\net8.0\scopedcss\bundle\CodeBook.API.App.styles.css
+C:\Users\Habiba Ahmed\Desktop\Code-Book-\CodeBook.API.App\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\Habiba Ahmed\Desktop\Code-Book-\CodeBook.API.App\obj\Debug\net8.0\staticwebassets.build.json.cache
+C:\Users\Habiba Ahmed\Desktop\Code-Book-\CodeBook.API.App\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\Habiba Ahmed\Desktop\Code-Book-\CodeBook.API.App\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+C:\Users\Habiba Ahmed\Desktop\Code-Book-\CodeBook.API.App\obj\Debug\net8.0\swae.build.ex.cache
+C:\Users\Habiba Ahmed\Desktop\Code-Book-\CodeBook.API.App\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+C:\Users\Habiba Ahmed\Desktop\Code-Book-\CodeBook.API.App\obj\Debug\net8.0\CodeBook.B8C6C5E6.Up2Date
+C:\Users\Habiba Ahmed\Desktop\Code-Book-\CodeBook.API.App\obj\Debug\net8.0\CodeBook.API.App.dll
+C:\Users\Habiba Ahmed\Desktop\Code-Book-\CodeBook.API.App\obj\Debug\net8.0\refint\CodeBook.API.App.dll
+C:\Users\Habiba Ahmed\Desktop\Code-Book-\CodeBook.API.App\obj\Debug\net8.0\CodeBook.API.App.pdb
+C:\Users\Habiba Ahmed\Desktop\Code-Book-\CodeBook.API.App\obj\Debug\net8.0\CodeBook.API.App.genruntimeconfig.cache
+C:\Users\Habiba Ahmed\Desktop\Code-Book-\CodeBook.API.App\obj\Debug\net8.0\ref\CodeBook.API.App.dll
+C:\Users\Habiba Ahmed\Desktop\Code-Book-\CodeBook.API.App\bin\Debug\net8.0\CodeBook.API.App.staticwebassets.runtime.json
